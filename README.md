@@ -1,6 +1,6 @@
 # Land Surface Temperature (LST) and NDWI Map of Rajshahi Division
 
-![LST and NDWI Map](LST_NDWI.jpg)
+![LST and NDWI Map](LST_NDWI.jpeg)
 
 ## Overview
 
